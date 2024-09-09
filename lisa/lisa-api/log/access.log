@@ -1,0 +1,5 @@
+link.lidiachile.cl:443 200.73.12.194 - - [23/Mar/2023:15:40:31 -0300] "GET /api/services/ HTTP/1.1" 500 - "-" "PostmanRuntime/7.31.3"
+link.lidiachile.cl:443 200.73.12.194 - - [23/Mar/2023:16:36:54 -0300] "GET /api/services/ HTTP/1.1" 500 - "-" "PostmanRuntime/7.31.3"
+link.lidiachile.cl:443 200.73.12.194 - - [23/Mar/2023:16:37:49 -0300] "GET /favicon.ico HTTP/1.1" 500 - "https://link.lidiachile.cl/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+link.lidiachile.cl:443 200.73.12.194 - - [23/Mar/2023:16:37:49 -0300] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+link.lidiachile.cl:443 200.73.12.194 - - [23/Mar/2023:16:37:50 -0300] "GET /favicon.ico HTTP/1.1" 500 - "https://link.lidiachile.cl/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
